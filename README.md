@@ -11,7 +11,7 @@ Part of Futura tools Project.
 
 Use via Swift Package Manager
 ```swift
-.package(url: "https://github.com/kaqu/FuturaNetwork.git", from: "0.3.0"),
+.package(url: "https://github.com/kaqu/FuturaNetwork.git", from: "0.1.0"),
 ```
 
 Coming soon...
